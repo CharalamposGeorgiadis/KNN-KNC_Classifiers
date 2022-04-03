@@ -12,3 +12,5 @@ The performances of the KNN (for k = 1 and k = 3) and NCC classifiers are listed
 | 1-Nearest Neighbors | 96.91% | ~2200000 ms  |
 | 3-Nearest Neighbors | 97.17% | ~2200000 ms  |
 | Nearest Class Centroid | 82.03% | ~780 ms  |
+
+NOTE: Extract the "dataset.zip" file before running the code!
